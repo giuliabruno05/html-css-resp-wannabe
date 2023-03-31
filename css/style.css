@@ -141,11 +141,14 @@ img {
     .container{ 
         max-width: 480px;
         font-size: 1.4rem;
+     
         
         
     }
     .why-us{ 
         background-color:#222222;
+        margin-bottom: -3rem;
+        padding: 20px 0;
     }
     .row{ 
         display: block;
@@ -158,9 +161,7 @@ img {
     .steps{ 
         margin: 0;
     }
-    h2{ 
-        padding-top: 2.5rem;
-    }
+    
 }
     
 
